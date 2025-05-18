@@ -1,0 +1,4 @@
+connection:
+  user: sys
+  password: Pas$w0rd
+  dsn: localhost:1521/orcl
